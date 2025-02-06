@@ -1,2 +1,2 @@
-# color_detection_usinng_opencv
+# color_detection_using_opencv
 detecting yellow color  hue using openCV, pillow
